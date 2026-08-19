@@ -1,10 +1,10 @@
-# Hi there, I'm Fares 👋 | Data Analyst & Software Developer
+# Hi there, I'm Turkawy 👋 | Data Analyst & Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat&logo=safari)](https://your-portfolio-link.com)
 [![NTI Track](https://img.shields.io/badge/NTI-Data%20Analysis%20Graduate-orange?style=flat&logo=databricks)](https://nti.gov.eg)
 
-Passionate **Data Analyst** and Computer Science student skilled in turning raw, messy data into clean, actionable business insights. I bridge the gap between software engineering and data intelligence to build end-to-end analytical solutions—from relational database modeling and data preprocessing to dynamic business intelligence dashboards.
+Passionate **Data Analyst** and Computer Science student. I specialize in turning raw, messy data into clean, actionable business insights. I bridge the gap between software engineering and data intelligence to build end-to-end analytical solutions—from relational database modeling and data preprocessing to dynamic business intelligence dashboards.
 
 ---
 
@@ -37,7 +37,7 @@ Passionate **Data Analyst** and Computer Science student skilled in turning raw,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Fares's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Turkawy's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
