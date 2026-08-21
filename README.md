@@ -1,4 +1,4 @@
-# Hi there, I'm Turkawy 👋 | Data Analyst & Software Developer
+# Hi there, I'm Terkawy 👋 | Data Analyst & Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat&logo=safari)](https://your-portfolio-link.com)
